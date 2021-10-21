@@ -11,6 +11,13 @@
 
 // Crear un array con los días de la semana
 
+lunes
+martes
+miércoles
+jueves
+viernes
+sábado
+domingo
 
 
 
