@@ -1,6 +1,9 @@
 # Curso de herramientas de desarrollo
 Un pequeño repositorio donde aprenderemos un par de trucos para trabajar rápidamente con Visual Studio Code.
 
+## Descargar Visual Studio Code
+https://code.visualstudio.com/
+
 ## Atajos de teclado Windows
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
